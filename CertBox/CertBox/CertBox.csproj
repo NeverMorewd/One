@@ -126,12 +126,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="certificate_server_128px_571590_easyicon.net.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="certificate_server_64px_571590_easyicon.net.ico" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="appicon.ico" />
   </ItemGroup>
   <ItemGroup>
