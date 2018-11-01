@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertBox", "CertBox\CertBox.csproj", "{270DAD13-AD04-4A1A-A0B6-260154FE2DCE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBox", "CertBox\MyBox.csproj", "{270DAD13-AD04-4A1A-A0B6-260154FE2DCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildBox", "BuildBox\BuildBox.csproj", "{5BA15354-A248-4783-8D6B-0BE23B3F982B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{B7826020-E4A1-4C9E-9A9A-72A1E9AE7334}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{270DAD13-AD04-4A1A-A0B6-260154FE2DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{270DAD13-AD04-4A1A-A0B6-260154FE2DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{270DAD13-AD04-4A1A-A0B6-260154FE2DCE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5BA15354-A248-4783-8D6B-0BE23B3F982B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5BA15354-A248-4783-8D6B-0BE23B3F982B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5BA15354-A248-4783-8D6B-0BE23B3F982B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5BA15354-A248-4783-8D6B-0BE23B3F982B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7826020-E4A1-4C9E-9A9A-72A1E9AE7334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7826020-E4A1-4C9E-9A9A-72A1E9AE7334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7826020-E4A1-4C9E-9A9A-72A1E9AE7334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7826020-E4A1-4C9E-9A9A-72A1E9AE7334}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
