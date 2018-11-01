@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Utilities
 {
-    public class Class1
+    public class CertMaker
     {
     }
 }
