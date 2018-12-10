@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBox", "CertBox\MyBox.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{B7826020-E4A1-4C9E-9A9A-72A1E9AE7334}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPN", "CPN\CPN.csproj", "{5D68805D-FAE9-4F30-ABE9-54499EA2E794}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B7826020-E4A1-4C9E-9A9A-72A1E9AE7334}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7826020-E4A1-4C9E-9A9A-72A1E9AE7334}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7826020-E4A1-4C9E-9A9A-72A1E9AE7334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D68805D-FAE9-4F30-ABE9-54499EA2E794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D68805D-FAE9-4F30-ABE9-54499EA2E794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D68805D-FAE9-4F30-ABE9-54499EA2E794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D68805D-FAE9-4F30-ABE9-54499EA2E794}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
